@@ -15,7 +15,7 @@ export const Home = () => {
           </span>
         </h2>
         <h3 className="text-red-500 text-3xl font-semibold">
-          Welcome to the page dude
+          Welcome to the page 
         </h3>
         <h4 className="text-white text-3xl font-medium pb-6">
           If you have already account,please login!
@@ -43,7 +43,7 @@ export const Home = () => {
           </span>
         </h2>
         <h3 className="text-red-500 text-3xl font-semibold">
-          Welcome to the page dude
+          Welcome to the page
         </h3>
         <h4 className="text-white text-3xl font-medium pb-6">
           If you don't have account,please register !

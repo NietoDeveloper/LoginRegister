@@ -18,7 +18,7 @@ export const Home = () => {
           Welcome to the page dude
         </h3>
         <h4 className="text-white text-3xl font-medium pb-6">
-          If you have already account,please login !
+          If you have already account,please login!
         </h4>
         <div className="w-full text-white">
           <hr />

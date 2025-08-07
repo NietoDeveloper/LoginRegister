@@ -5,3 +5,6 @@ Project Structure
 
 Frontend: Built with React (JavaScript)
 Backend: Built with Node.js
+
+
+## Manuel Nieto Software Developer

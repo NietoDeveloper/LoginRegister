@@ -58,4 +58,7 @@ A **Student Information Management System**, a web application designed to add, 
 -   **Styling**: CSS
 
 
-## Manuel Nieto Software Developer
+## Manuel Nieto
+
+## NietoDeveloper
+

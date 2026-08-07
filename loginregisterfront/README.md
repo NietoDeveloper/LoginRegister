@@ -14,13 +14,7 @@
 
 ---
 
-
-loginregisterfront/
-├── public/         # Static assets and HTML template
-├── src/
-│   ├── Pages/      # Core view components (Login, Register, Dashboard)
-│   ├── App.js      # Root component and router configuration
-│   ├── index.js    # Application DOM injection point
+ # Application DOM injection point
 │   └── index.css   # Global styles and design system rules
 ├── package.json    # Dependencies and build scripts
 └── README.md       # Frontend documentation

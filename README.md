@@ -3,9 +3,7 @@
 <div align="center">
 
 [![Software Engineer](https://img.shields.io/badge/Engineer-Manuel%20Nieto-blue?style=for-the-badge&logo=github)](https://github.com/NietoDeveloper)
-[![Rank #1 Colombia](https://img.shields.io/badge/Committers.top-%231%20Colombia-gold?style=for-the-badge)](https://committers.top/colombia#NietoDeveloper)
-
-</div>
+[![Rank #1 Colombia](https://img.shields.io/badge/Committers.
 
 ---
 

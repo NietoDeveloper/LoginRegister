@@ -12,13 +12,7 @@
 
 </div>
 Prerequ
-Bash
-npm install
-Run the development server:
-
-Bash
-npm start
-Open your browser and navigate to http://localhost:3000.
+Bash navigate to http://localhost:3000.
 
 🛠️ Tech Stack
 Library: React (JavaScript ES6+)

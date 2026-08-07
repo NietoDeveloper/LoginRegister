@@ -17,10 +17,7 @@
  # Application DOM injection point
 │   └── index.css   # Global styles and design system rules
 ├── package.json    # Dependencies and build scripts
-└── README.md       # Frontend documentation
-🚀 Key Features
-Component-Driven UI: Modular view design isolating authentication forms and layout containers inside src/Pages/.
-
+└── README.md   
 State Management: Reactive handling of user input, form validation states, and active session tokens.
 
 API Communication: Clean service integration communicating asynchronously with the Node.js backend.

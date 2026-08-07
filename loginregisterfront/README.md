@@ -12,15 +12,7 @@
 
 </div>
 
----
-
- # Application DOM injection point
-│   └── index.css   # Global styles and design system rules
-├── package.json    # Dependencies and build scripts
-└── README.md   
-State Management: Reactive handling of user input, form validation states, and active session tokens.
-
-API Communication: Clean service integration communicating asynchronously with the Node.js backend.
+---h the Node.js backend.
 
 Responsive Layout: Optimized typography and layout structures adaptable to desktop and mobile viewports.
 

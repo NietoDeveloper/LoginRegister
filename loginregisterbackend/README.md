@@ -27,17 +27,3 @@ PORT=5000
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret_key
 Run the server in development mode:
-
-Bash
-npm run dev
-🛠️ Tech Stack
-Runtime: Node.js
-
-Framework: Express.js
-
-Database ODM: Mongoose / MongoDB
-
-Security: Bcryptjs, JSON Web Tokens (JWT), CORS
-
-👨‍💻 Author
-Built with precision by Manuel Nieto (NietoDeveloper) — Full-Stack Software Engineer & Systems Architect.

@@ -34,13 +34,7 @@ Prerequisites
 Node.js (v18+ recommended)
 
 MongoDB instance (Local or Atlas cluster)
-
-Installation & Execution
-Navigate to the backend directory:
-
-Bash
-cd loginregisterbackend
-Install dependencies:
+tall dependencies:
 
 Bash
 npm install

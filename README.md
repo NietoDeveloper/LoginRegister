@@ -9,9 +9,7 @@
 
 ## 📋 Overview
 
-An enterprise-grade, highly secure **User Authentication & Authorization System** built with the modern MERN stack (MongoDB, Express.js, React, Node.js). Engineered with clean architecture principles, robust security protocols, and a production-ready folder structure to deliver seamless user onboarding and session management.
-
-Developed by **Manuel Nieto** (**NietoDeveloper**), ranked **#1 in Colombia** and **#3 in Latin America** on `committers.top`. This application serves as a foundational micro-module demonstrating high-performance backend design and responsive frontend integration.
+An enterprise-grade, highly secure **User Authentication & Authorization System** built with the modern MERN stack (MongoDB, Express.js, React,eto** (**NietoDeveloper**), ranked **#1 in Colombia** and **#3 in Latin America** on `committers.top`. This application serves as a foundational micro-module demonstrating high-performance backend design and responsive frontend integration.
 
 ---
 

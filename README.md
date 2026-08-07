@@ -9,6 +9,3 @@ Project Structure
 
 Built with React (JavaScript)
 Backend: Built with Node.js
-
-
-## Manuel Nieto

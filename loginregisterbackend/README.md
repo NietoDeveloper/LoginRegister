@@ -21,24 +21,6 @@ The backend service for the **Login/Register App**. Built with **Node.js** and *
 
 ---
 
-## 🗂️ Directory Structure
-
-```text
-loginregisterbackend/
-├── models/         # Mongoose schemas and data models (e.g., User model)
-├── .env            # Environment configuration (not tracked in VCS)
-├── package.json    # Project dependencies and scripts
-
-🚀 Getting Started
-Prerequisites
-Node.js (v18+ recommended)
-
-MongoDB instance (Local or Atlas cluster)
-tall dependencies:
-
-Bash
-npm install
-Create a .env file in the root of loginregisterbackend with the following variables:
 
 Fragmento de código
 PORT=5000

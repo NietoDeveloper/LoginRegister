@@ -32,8 +32,6 @@ loginregisterbackend/
 ⚙️ Core Modules & Features
 RESTful Endpoints: Predictable routes for user signup, signin, and token validation.
 
-Data Modeling: Strict schema definition using Mongoose with automated timestamping and unique constraints on identifiers.
-
 Security Middleware: CORS enablement, JSON body parsing, and secure environment variable management via dotenv.
 
 Password Hashing: Cryptographic salting and hashing protocols ensuring user credentials remain secure at rest.

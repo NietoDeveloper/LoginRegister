@@ -14,13 +14,7 @@
 
 ---
 
-## 📋 Overview
 
-
-
-## 🗂️ Directory Structure
-
-```text
 loginregisterfront/
 ├── public/         # Static assets and HTML template
 ├── src/

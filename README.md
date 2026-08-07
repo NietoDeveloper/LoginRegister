@@ -6,5 +6,3 @@ This application provides user login and registration functionality with a front
 Project Structure
 
 ## Frontend:
-
-Built with React (JavaScript)

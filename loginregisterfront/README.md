@@ -16,9 +16,7 @@
 
 ## 📋 Overview
 
-The client-side interface for the **Login/Register App**. Built using **React**, this single-page application provides a sleek, modern, and intuitive user experience for authentication workflows, featuring responsive design principles and seamless API integration.
 
----
 
 ## 🗂️ Directory Structure
 

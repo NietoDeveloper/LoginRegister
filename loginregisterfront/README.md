@@ -15,11 +15,3 @@ Prerequ
 Bash navigate to http://localhost:3000.
 
 🛠️ Tech Stack
-Library: React (JavaScript ES6+)
-
-Styling: CSS3 / Responsive Layouts
-
-Build Tooling: React Scripts / Webpack
-
-👨‍💻 Author
-Crafted by Manuel Nieto (NietoDeveloper) — Full-Stack Software Engineer & Systems Architect.

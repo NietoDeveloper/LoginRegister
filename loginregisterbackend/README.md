@@ -19,11 +19,3 @@
 
 The backend service for the **Login/Register App**. Built with **Node.js** and **Express.js**, it exposes a high-performance RESTful API connected to **MongoDB** via Mongoose. It handles secure user registration, credential validation, password encryption, and token-based authentication.
 
----
-
-
-Fragmento de código
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret_key
-Run the server in development mode:

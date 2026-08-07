@@ -28,13 +28,6 @@ loginregisterbackend/
 ├── models/         # Mongoose schemas and data models (e.g., User model)
 ├── .env            # Environment configuration (not tracked in VCS)
 ├── package.json    # Project dependencies and scripts
-└── server.js       # Application entry point and middleware configuration
-⚙️ Core Modules & Features
-RESTful Endpoints: Predictable routes for user signup, signin, and token validation.
-
-Security Middleware: CORS enablement, JSON body parsing, and secure environment variable management via dotenv.
-
-Password Hashing: Cryptographic salting and hashing protocols ensuring user credentials remain secure at rest.
 
 🚀 Getting Started
 Prerequisites

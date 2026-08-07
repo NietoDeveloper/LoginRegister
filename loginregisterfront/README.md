@@ -11,12 +11,6 @@
 [![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/)
 
 </div>
-
----h the Node.js backend.
-
-Responsive Layout: Optimized typography and layout structures adaptable to desktop and mobile viewports.
-
-🚀 Getting Started
 Prerequisites
 Node.js (v18+ recommended)
 

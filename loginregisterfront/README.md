@@ -11,18 +11,7 @@
 [![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/)
 
 </div>
-Prerequisites
-Node.js (v18+ recommended)
-
-Running instance of the loginregisterbackend service
-
-Installation & Execution
-Navigate to the frontend directory:
-
-Bash
-cd loginregisterfront
-Install dependencies:
-
+Prerequ
 Bash
 npm install
 Run the development server:
